@@ -1,0 +1,1 @@
+const BlockChain = require('./lib/blockchain');
